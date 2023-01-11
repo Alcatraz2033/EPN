@@ -115,10 +115,9 @@ Comandos básicos de bash
 En C lo único que se busca es el procesamiento de unos datos de entrada para obtener unos de salida. En cambio en C++ primero se crean los objetos para luego solicitarles que hagan los métodos por sí solos. Es un tipo de lenguaje de programación de alto nivel.
 <p align="center">
 	<img src="https://media.bitdegree.org/storage/media/images/2020/05/c-vs-c-plus-plus.jpg" width="50%" height="50%">
+	<img src="https://qph.cf2.quoracdn.net/main-qimg-849d1c2bd39d2a5250337619208c0677-lq" width="50%" height="50%">
 </p>
-<p align="center">
-	<img src="https://www.upwork.com/mc/documents/Differences.png" width="50%" height="50%">
-</p>
+
 
 ##
 ### Deberes subidos a lo largo del bimestre
