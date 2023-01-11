@@ -110,3 +110,20 @@ Comandos básicos de bash
 	<img src="https://pixelcoblog.com/wp-content/uploads/2008/01/linux-cheat-sheet.png" width="50%" height="50%">
 </p>
 
+##
+### Pasar de C a C++
+En C lo único que se busca es el procesamiento de unos datos de entrada para obtener unos de salida. En cambio en C++ primero se crean los objetos para luego solicitarles que hagan los métodos por sí solos. Es un tipo de lenguaje de programación de alto nivel.
+<p align="center">
+	<img src="https://media.bitdegree.org/storage/media/images/2020/05/c-vs-c-plus-plus.jpg" width="50%" height="50%">
+</p>
+<p align="center">
+	<img src="https://www.upwork.com/mc/documents/Differences.png" width="50%" height="50%">
+</p>
+
+##
+### Deberes subidos a lo largo del bimestre
+Carpetas con los deberes subidos  a lo largo del bimestre
+<p align="center">
+	<img src="https://i.imgur.com/O7JTGuH.png" width="50%" height="50%">
+</p>
+
